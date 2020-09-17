@@ -1,0 +1,14 @@
+/* 
+  XQAboutUsAlertStrings.strings
+  Pods
+
+  Created by sinking on 2020/9/9.
+  
+*/
+
+"newVersionReminder"="App new version reminder";
+"newVersionNote"="There is a new version updated, more functions, more perfect";
+"upgrade"="upgrade";
+"talkLater"="later";
+"openAppStoreError"="There is an exception, please manually go to the app store to update the app";
+
